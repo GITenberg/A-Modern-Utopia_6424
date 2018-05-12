@@ -1,4 +1,8 @@
 _repo: A-Modern-Utopia_6424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -14,6 +18,8 @@ description: "A Modern Utopia is a 1905 novel by H. G. Wells.\nBecause of the co
   \ notion that a voluntary order of nobility known as the Samurai could effectively\
   \ rule a \"kinetic and not static\" world state so as to solve \"the problem of\
   \ combining progress with political stability.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6424#A-Modern-Utopia
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
